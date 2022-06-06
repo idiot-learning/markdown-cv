@@ -26,7 +26,7 @@ title: WANG Chao
 `August 2021 – Current`
 **SDK development（linux/windows）** - Smartmore 
 - \- Design and implement the computer vision SDK using C++ 
-- \- Adopte Tensorrt to accelerate inference time by up to 40%
+- \- Adopt Tensorrt to accelerate inference time by up to 40%
 - \- Accelerate the post-processing process of SDK using CUDA
 - \- Deploy the AI software to production line by creating the QT framework 
 
@@ -39,7 +39,7 @@ title: WANG Chao
 
 `June 2016 – Jan 2021`
 **Numerical simulations** - HKUST
-- \- Developed the numerical model and implement it using C++ 
+- \- Developed the FEM/MPM numerical model and implement it using C++ 
 - \- Analyzed the simulation data and provide the design recommendations
 
 ## AWARDS
