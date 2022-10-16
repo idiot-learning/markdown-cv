@@ -13,34 +13,27 @@ title: WANG Chao
 ## EDUCATION 
 `June 2016 - Jan 2021 `
 **Hong Kong University of Science and Technology(HKUST)**
-- \- Ph.D. in Civil Engineering  
-- \- Research interests: high-performance computing, fluid and solid mechanics
+- \- Ph.D. in Civil Engineering (high-performance computing, fluid and solid mechanics)
+- \- Developed the FEM/MPM algorithm in C++ 
 
 `Sept 2012 - June 2016`
 **Hohai University**
-- \- B.Sc. in Water Conservancy and Hydropower Engineering 
-- \- Mean Score 90.6/100 (Top 5% in Dayu intensive class) 
+- \- B.Sc. in Water Conservancy and Hydropower Engineering (Top 5% in Dayu intensive class) 
 
 ## PROJECTS
 
-`August 2021 – Current`
-**SDK development（linux/windows）** - Smartmore 
-- \- Design and implement the computer vision SDK using C++ 
-- \- Adopt Tensorrt to accelerate inference time by up to 40%
-- \- Accelerate the post-processing process of SDK using CUDA
-- \- Deploy the AI software to production line by creating the QT framework 
+`August 2021 – current`
+**Algorithm Engineer (computational lithography）** - ASML-Brion 
+- \- Investigate and customize the computational geometry algorithm
+- \- Develop and maintain the in-house geometry library
 
-`May 2021 – Current`
-**Software development** - Smartmore 
-- \- Deisign the database for managing user authority and saving detection results 
-- \- Implement the database based on the PostgreSQL and SQLite
-- \- Design and optimize the route of camera movement to capture images
-- \- Use threadpool to parallelize the processing tasks
 
-`June 2016 – Jan 2021`
-**Numerical simulations** - HKUST
-- \- Developed the FEM/MPM numerical model and implement it using C++ 
-- \- Analyzed the simulation data and provide the design recommendations
+`April 2021 – August 2022`
+**C++ Software Engineer（linux/windows）** - Smartmore 
+- \- Develop the computer vision SDK and accelerate it using CUDA and multiple threading techniques 
+- \- Deisign and implement the database for managing user authority and saving results using PostgreSQL 
+- \- Design and optimize the route planning module to move cameras
+- \- Develop GUI for the software by using QT framework 
 
 ## AWARDS
 
@@ -71,11 +64,16 @@ C.W.W. Ng, C. Wang, C.E. Choi, W.A.R.K.De Silvaa & S. Poudyala (2020).Effects of
 `2021`
 C.W.W. Ng, C.E. Choi, H. Liu, C. Wang, & J.S.H. Kwan. Impact mechanisms of debris flow on barriers: modelling, analysis and design. SCG-XIII INTERNATIONAL SYMPOSIUM ON LANDSLIDES. CARTAGENA, COLOMBIA- February 22nd-26th-2021.
 
+### Patents
+Liu Cuntian, Xu Yuliang, Wang Chao, Zhou Chao, Shen Xiaoyong & Lv Jiangbo. (2021). [Invention] Data access method, device, equipment and storage medium based on product structure.
+
+Xu Yuliang, Liu Cuntian, Wang Chao, Zhou Chao, Shen Xiaoyong & Lv Jiangbo. (2021). [Invention] Component positioning method, device, equipment and storage medium in alternating light and dark fields of view.
+
 ## SKILLS 
-- Software: C/C++, python,cmake, OpenCV, onnxruntime, tensorrt, linux, docker
+- Software: C/C++, python, cmake, OpenCV, linux, docker
 - Language: English (working language) and Mandarin 
 - Sports: Badminton and short-distance running
 
-Last updated: May 2022
+Last updated: Oct 2022
 
 
