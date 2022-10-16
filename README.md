@@ -40,6 +40,12 @@ Any change you want to make to your CV from then on would have to be done on the
 4. You can edit the `index.md` file and see the changes live in your browser.
 5. To print a PDF, press <kbd>⌘</kbd> + <kbd>p</kbd>. Print and web CSS media queries should take care of the styling.
 
+
+### used inside docker 
+`docker run -ti -v "${pwd}:/app" -p 4000:4000 --name cvwangchao f1fc479dff2b`
+`cd /app` 
+`jekyll serve --host 0.0.0.0` # then open browser http://localhost:4000/
+
 ## Styling
 
 The included CSS will render your CV in two styles:
